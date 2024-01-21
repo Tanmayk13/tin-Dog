@@ -1,2 +1,2 @@
 # TinDog Project
-https://tanmayk13.github.io/tin-Dog/
+Tinder For Dogs Using Bootstrap
